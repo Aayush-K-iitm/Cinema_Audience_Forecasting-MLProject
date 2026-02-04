@@ -10,7 +10,7 @@ Graduate project predicting daily theatre audience counts using booking data, ca
 - **Key insight**: Boosting generalizes better than RF here despite RF's strong local CV
 
 ## My Best Notebook
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/aayushkonar/23f2000866-notebook-t32025)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]([https://www.kaggle.com/code/aayushkonar/23f2000866-notebook-t32025](https://www.kaggle.com/code/aayushkonar/23f2000866-notebook-t32025?scriptVersionId=276285871))
 
 ## Models & Approach
 | Model | Local RMSE | Public LB | Notes |
