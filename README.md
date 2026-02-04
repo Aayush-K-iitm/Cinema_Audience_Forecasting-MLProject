@@ -6,7 +6,7 @@ Graduate project predicting daily theatre audience counts using booking data, ca
 
 ## Competition Results
 - **My best Public LB**: ~0.37 (LightGBM + log1p target + booking lags)
-- **Top scores**: 0.39–0.41 (94 teams)
+- **Top score**: 0.5
 - **Key insight**: Boosting generalizes better than RF here despite RF's strong local CV
 
 ## My Best Notebook
